@@ -2,8 +2,8 @@
 
 ------------------------------
 Languages:
-C++
-C
-Python
-HTML
-CSS 
+-C++
+-C
+-Python
+-HTML
+-CSS 
