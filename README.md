@@ -4,7 +4,6 @@
 <h3>languages</h3>
 <ul>
   <li>C++</li>
-  <li>C</li>
   <li>Python</li>
   <li>HTML</li>
   <li>CSS</li>
