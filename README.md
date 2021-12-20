@@ -5,8 +5,8 @@
 <ul>
   <li>C++</li>
   <li>Python</li>
-  <li>HTML</li>
   <li>CSS</li>
+  <li>HTML</li>
 
   
   <h3>What is web-development</h3>
