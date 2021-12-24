@@ -3,6 +3,7 @@
 ------------------------------
 <h3>languages</h3>
 <ul>
+  <li>JavaScript>
   <li>C++</li>
   <li>Python</li>
   <li>CSS</li>
