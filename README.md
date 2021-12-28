@@ -3,11 +3,11 @@
 ------------------------------
 <h3>languages</h3>
 <ul>
-  <li>JavaScript>
-  <li>C++</li>
-  <li>Python</li>
-  <li>CSS</li>
   <li>HTML</li>
+  <li>CSS</li>
+  <li>Bash/shell</li>
+  <li>bash-scripting</li>
+  <li>C#</li>
 
   
   <h3>What is web-development</h3>
